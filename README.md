@@ -11,44 +11,9 @@ All projects are built using **Pandas, NumPy, Matplotlib, and Seaborn**, and are
 ### 1️⃣ Data Cleaning in Python (Pandas)
 - **Goal:** Cleaning messy CSV files, handling missing values, standardizing data formats.
 - **Tech Stack:** Python, Pandas
-- **Dataset:** [Netflix Titles (Kaggle)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Dataset:** Customer_Call_List2.xlsx
 - **Key Skills:** Data wrangling, type conversions, handling nulls.
-- **Notebook:** `data_cleaning.ipynb`
-
----
-
-### 2️⃣ Exploratory Data Analysis (EDA)
-- **Goal:** Discover patterns and outliers, compute descriptive statistics.
-- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-- **Dataset:** Same as Data Cleaning or any Kaggle dataset you like.
-- **Key Insights:** Correlation between variables, top trends, outlier detection.
-- **Notebook:** `eda_analysis.ipynb`
-
----
-
-### 3️⃣ Data Visualization with Matplotlib & Seaborn
-- **Goal:** Build clear, storytelling visuals from cleaned datasets.
-- **Tech Stack:** Python, Seaborn, Matplotlib
-- **Dataset:** [COVID-19 Global Data](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
-- **Visuals Created:** Heatmap, Pairplot, Line Chart, Bar Chart.
-- **Notebook:** `data_visualization.ipynb`
-
----
-
-### 4️⃣ Automate Excel Reports with Python
-- **Goal:** Automate generation of Excel reports using openpyxl/xlsxwriter.
-- **Tech Stack:** Python, Pandas, OpenPyXL
-- **Dataset:** Mock monthly sales files (`Sales_Jan.xlsx`, `Sales_Feb.xlsx`, etc.)
-- **Outcome:** Auto-generated formatted report saved as `Monthly_Report.xlsx`
-- **Notebook:** `excel_automation.ipynb`
-
----
-
-### 5️⃣ Final Project – Correlation Analysis in Python
-- **Goal:** Apply data cleaning, EDA, visualization, and reporting end-to-end.
-- **Dataset:** [Laptop Prices Dataset](https://www.kaggle.com/datasets/ionaskel/laptop-prices)
-- **Key Results:** Identified price drivers, visualized correlation heatmap.
-- **Notebook:** `final_project_correlation.ipynb`
+- **Notebook:** `1.Data_Cleaning_Customer_Call_List.ipynb`
 
 ---
 
@@ -62,6 +27,10 @@ All projects are built using **Pandas, NumPy, Matplotlib, and Seaborn**, and are
 ---
 
 ## 📈 **Future Work**
+- Exploratory Data Analysis (EDA)
+- Data Visualization with Matplotlib & Seaborn
+- Automate Excel Reports with Python
+- Correlation Analysis in Python
 - Add Power BI / Tableau dashboards.
 - Integrate SQL queries for data extraction.
 - Build AI-based data automation pipelines.
@@ -71,7 +40,6 @@ All projects are built using **Pandas, NumPy, Matplotlib, and Seaborn**, and are
 ## 📬 **Contact**
 👤 **ANURAG**  
 📧 anurag333@gmail.com  
-💼 [LinkedIn Profile](#) | [Kaggle Profile](#) | [GitHub](#)
 
 ---
 
