@@ -70,7 +70,7 @@ All projects are built using **Pandas, NumPy, Matplotlib, and Seaborn**, and are
 
 ## 📬 **Contact**
 👤 **ANURAG**  
-📧 [your_email_here@gmail.com]  
+📧 anurag333@gmail.com  
 💼 [LinkedIn Profile](#) | [Kaggle Profile](#) | [GitHub](#)
 
 ---
