@@ -17,6 +17,15 @@ All projects are built using **Pandas, NumPy, Matplotlib, and Seaborn**, and are
 
 ---
 
+### 2️⃣ Exploratory Data Analysis (EDA)
+- **Goal:** Discover patterns and outliers, compute descriptive statistics.
+- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+- **Dataset:** World Population Dataset (Credit: Alex the Analyst).
+- **Key Insights:** Correlation between variables, top trends, outlier detection.
+- **Notebook:** `2-eda-using-pandas-python.ipynb`
+
+- --
+
 ## 🛠️ **Tech Stack**
 - Python (3.10+)
 - Pandas, NumPy
