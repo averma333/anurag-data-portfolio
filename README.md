@@ -24,7 +24,15 @@ All projects are built using **Pandas, NumPy, Matplotlib, and Seaborn**, and are
 - **Key Insights:** Correlation between variables, top trends, outlier detection.
 - **Notebook:** `2-eda-using-pandas-python.ipynb`
 
-- --
+---
+
+### 3 Cleaning and Exploratory Data Analysis (EDA) 
+- **Goal:** Clean and analyze a real-world customer churn dataset to discover key insights about
+customer retention.
+- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+- **Dataset:** Telco Customer Churn (Kaggle, CC0 License).
+- **Key Insights:** Data wrangling, type conversions, handling nulls, Correlation between variables, top trends, outlier detection.
+- **Notebook:** `1-data-cleaning-telco-churn.ipynb, 2-eda-telco-churn-ipynb.ipynb`- --
 
 ## 🛠️ **Tech Stack**
 - Python (3.10+)
